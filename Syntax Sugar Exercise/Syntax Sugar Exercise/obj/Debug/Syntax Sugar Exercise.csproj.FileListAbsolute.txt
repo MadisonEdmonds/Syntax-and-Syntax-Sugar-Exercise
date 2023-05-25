@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\Syntax Sugar Exercise.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\Syntax Sugar Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\Syntax Sugar Exercise.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\Syntax Sugar Exercise.exe.config
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\Syntax Sugar Exercise.exe
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\Syntax Sugar Exercise.pdb
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\Syntax Sugar Exercise.exe
+C:\Users\HP\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\Syntax Sugar Exercise.pdb
